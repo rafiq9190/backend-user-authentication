@@ -1,0 +1,104 @@
+[
+  {
+    "username": "hello",
+    "email": "hellog@gmail.com",
+    "password": "$2a$10$yUo/vXH17tzNwMJAuFdxNuvws8jgnhE.DBMZ6axVZNIPzOTnLSf3y",
+    "role": "admin"
+  },
+  {
+    "username": "hello",
+    "email": "hello1@gmail.com",
+    "password": "$2a$10$kJUE4VknspOXRyN5P6yHDe2nxX05i8Yd8TDC.kb/Ss2wDplfbLYTe",
+    "role": "admin"
+  },
+  {
+    "username": "hello",
+    "email": "hello3@gmail.com",
+    "password": "$2a$10$EKUjD1X3qeoIqclwdTYmQeShaWLz.4OleSkB.vl1rTbwfQF7a8Bnm",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes@gmail.com",
+    "password": "$2a$10$FLFBaf31rY7eOe0uclh09OTgTzp6nU0fh2zEgb30kFgu1jfm6a25G",
+    "role": "user"
+  },
+  {
+    "username": "yes1",
+    "email": "yes1@gmail.com",
+    "password": "$2a$10$H/2GkESDC6Zr3QKKrDNbK.v3rlr7Msoh0BDxv7Y8YVOOjfdkNOCv2",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes2@gmail.com",
+    "password": "$2a$10$VF1Wx8/LQ/mlu9aPrGR2U.Fo1WOVaYi3jglXGXmP3WnqyCCkUj1ky",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes3@gmail.com",
+    "password": "$2a$10$VZ7hGLsPsgBj.gOfbEpHc.gWazPTjveNh38g05K9OwV72jpMf7wqO",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes4@gmail.com",
+    "password": "$2a$10$XPxwY7IWzXas0J5QkXObze/Tyeq9Jx.5JXqGAjbzMMdgNbEXZA0Ni",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes5@gmail.com",
+    "password": "$2a$10$eT9PswvPJ.9CGHUMmcA.oeuk6EFN1EFYeAZUuqycWA.yq333empeq",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "yes6@gmail.com",
+    "password": "$2a$10$w.kgUkUaLPIpIV8euULLYeYAu64m5WcMU48JnwUkXDDx2nQ3giUnG",
+    "role": "admin"
+  },
+  {
+    "username": "rafiq",
+    "email": "rafiq2@gmail.com",
+    "password": "$2a$10$Poy1Hca3aZNUercaH8ZkKu8XHsXo7VmRRZUcgpYQJdYdYIiHoNecm",
+    "role": "admin"
+  },
+  {
+    "username": "rafiq",
+    "email": "rafiq3@gmail.com",
+    "password": "$2a$10$tzB52CzSrmoo/LeviPGwvOTrsw0dVukKEMg1DfFP1JyHOFyotOyF6",
+    "role": "admin"
+  },
+  {
+    "username": "rafiq",
+    "email": "rafiq5@gmail.com",
+    "password": "$2a$10$tlcCJuxKFzdu71YCH1UfxO3hhh07.fkNDV9TC0FbndmxlSufe6pKm",
+    "role": "admin"
+  },
+  {
+    "username": "yes",
+    "email": "bro1@gmail.com",
+    "password": "$2a$10$TMfUU/IwRffrjwrh5ue1Du9K9VYMgxxPXLiF6sKB2L9fBMD92ItR2",
+    "role": "user"
+  },
+  {
+    "username": "yaho",
+    "email": "yaho@gmail.com",
+    "password": "$2a$10$fQ5zS1066USd287ZT7sqS.QBXJsQGvU3gJtCI0roCYE5c2sI3y7zu",
+    "role": "user"
+  },
+  {
+    "username": "hedo",
+    "email": "yoho@gmail.com",
+    "password": "$2a$10$5zTt6joe1ubq90JwynCA/O/zf9KVfCWyKp3KOnd.A9Ep.k7xDix/u",
+    "role": "user"
+  },
+  {
+    "username": "sdsdfsdf",
+    "email": "wa@gmail.com",
+    "password": "$2a$10$1g5Wmr6mc23oyD8Igr1ZwOSalYiBg20ClKYCrO3EYKlkIQawL3EHa",
+    "role": "user"
+  }
+]
